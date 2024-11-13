@@ -1,0 +1,24 @@
+2024-10-22 08:33:16 - Google DNS (8.8.8.8): Online
+2024-10-22 08:33:16 - OpenDNS (208.67.222.222): Online
+2024-10-22 08:33:20 - Cloudflare DNS (1.1.1.1): Offline
+2024-10-22 08:37:42 - Google DNS (8.8.8.8): Online
+2024-10-22 08:37:47 - OpenDNS (208.67.222.222): Online
+2024-10-22 08:37:54 - Cloudflare DNS (1.1.1.1): Offline
+2024-10-22 08:46:28 - Google DNS (8.8.8.8): Offline
+2024-10-22 08:46:28 - OpenDNS (208.67.222.222): Offline
+2024-10-22 08:47:29 - Google DNS (8.8.8.8): Online
+2024-10-22 08:47:35 - OpenDNS (208.67.222.222): Online
+2024-10-22 08:47:38 - Cloudflare DNS (1.1.1.1): Online
+2024-10-22 08:48:46 - Google DNS (8.8.8.8): Offline
+2024-10-22 08:50:06 - Google DNS (8.8.8.8): Online
+2024-10-22 08:52:17 - Google DNS (8.8.8.8): Offline
+2024-10-22 08:52:38 - OpenDNS (208.67.222.222): Offline
+2024-10-22 08:52:38 - Cloudflare DNS (1.1.1.1): Offline
+2024-10-22 08:53:38 - Google DNS (8.8.8.8): Online
+2024-10-22 08:53:41 - OpenDNS (208.67.222.222): Online
+2024-10-31 10:02:27 - Google DNS (8.8.8.8): Offline
+2024-10-31 10:02:28 - OpenDNS (208.67.222.222): Offline
+2024-10-31 10:02:28 - Cloudflare DNS (1.1.1.1): Offline
+2024-10-31 10:03:30 - Google DNS (8.8.8.8): Online
+2024-10-31 10:03:33 - OpenDNS (208.67.222.222): Online
+2024-10-31 10:03:36 - Cloudflare DNS (1.1.1.1): Online
